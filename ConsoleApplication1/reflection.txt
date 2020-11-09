@@ -1,0 +1,12 @@
+-What did you learn? What did you know already?
+Refreshed knowledge not used in 15 years.
+
+-What was difficult in the lab? How did you overcome it?
+Remainder in read buffer with multiple commands cin.
+Solved by searching for problem and learning how to remove lingering results in buffer. 
+
+-How can the lab be improved?
+
+
+-Additionally, give an estimate how many hours you spent on this lab.
+~4h
